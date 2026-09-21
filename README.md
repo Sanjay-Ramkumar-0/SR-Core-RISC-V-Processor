@@ -88,4 +88,3 @@ Requires Icarus Verilog. Expected output ends with:
 | Direct-mapped cache         | Present     |
 | Full cache-line fill        | Simplified  |
 
-The organisation is intentionally parallel to your Python project so you can keep extending both side-by-side.
